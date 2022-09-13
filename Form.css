@@ -1,0 +1,60 @@
+
+form {
+  height: 300px;
+  width: 500px;
+  border: 2px solid;
+  padding: 0px;
+}
+.firstlabel,.thirdlabel {
+  display: inline-block;
+  width: 8em;
+  margin-left: 20px;
+  margin-top: 0px;
+}
+.first,.third {
+  display: inline-block;
+  width: 16em;
+  /* position: relative; */
+  top: -0.5em;
+  margin-top: 1px;
+  border-top: 0ch;
+  border-left: 0ch;
+  border-right: 0ch;
+  border-bottom: 2px solid;
+}
+#title{
+  margin: 10px;
+  font-size: 30px;
+  background: red;
+  color: white;
+}
+#address{
+  width: 34em;
+}
+#subscribe{
+  width: 100%;
+  margin-top: 50px;
+  margin-left: 20px;
+  font-size: larger;
+  font-weight: bold;
+}
+
+.pair1 {
+    float:left;
+}
+
+.first
+{
+    margin-left: 20px;
+    display:block;
+}
+
+.line3 {
+  float:left;
+}
+.third
+{
+    margin-left: 20px;
+    display:block;
+    width: 10em;
+}
